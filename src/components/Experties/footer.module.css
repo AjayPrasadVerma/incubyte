@@ -1,0 +1,33 @@
+.footer {
+  background-color: #a2d8f2;
+  margin-top: -22px;
+  text-align: center;
+  padding: 20px;
+}
+
+.footer h1 {
+  text-align: center;
+}
+
+.footer p {
+  text-align: center;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.footer button {
+  background-color: #3457bf;
+  color: #fff;
+  font-weight: 700;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  padding: 15px 30px;
+  cursor: pointer;
+}
+
+.copyright {
+  text-align: center;
+  padding: 5px;
+  font-weight: 600;
+}

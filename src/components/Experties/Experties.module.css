@@ -1,0 +1,32 @@
+.content {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+  padding: 10px;
+}
+
+.experties > h2 {
+  text-align: center;
+  color: #3457bf;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  background-color: #a2d8f2;
+  text-align: center;
+  padding: 20px;
+  max-width: 300px;
+  height: 250px;
+  border: 2px solid #fff;
+  box-shadow: 0 2px 8px #000000a8;
+  word-spacing: 2px;
+}
+
+.card p {
+  font-weight: 600;
+  font-size: 16px;
+}

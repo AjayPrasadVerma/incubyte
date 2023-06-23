@@ -1,0 +1,18 @@
+.header {
+  background-color: #fff;
+  color: #104697;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 5%;
+  box-shadow: 0 2px 8px #00000040;
+}
+
+.left {
+  color: #104697cf;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
